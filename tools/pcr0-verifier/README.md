@@ -1,6 +1,6 @@
 # PCR0 Verifier
 
-This tool extracts the PCR0 measurement from an op-enclave EIF (Enclave Image Format) file. The PCR0 measurement is a cryptographic hash that represents the initial state of the enclave, which is crucial for attestation and verification purposes.
+This tool gets the PCR0 measurement from an op-enclave EIF (Enclave Image Format) file. The PCR0 measurement is a cryptographic hash that represents the initial state of the enclave, which is crucial for attestation and verification purposes.
 
 ## Prerequisites
 
