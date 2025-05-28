@@ -1,4 +1,4 @@
-# op-enclave
+7# op-enclave
 
 `op-enclave` is a relatively small modification to the [op-stack](https://github.com/ethereum-optimism/optimism/)
 that proves state transitions in a AWS Nitro Enclave, and submits the resulting state roots to the L1 chain.
